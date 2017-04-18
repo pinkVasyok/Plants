@@ -6,7 +6,8 @@
 }
 
 body {
-  background: black url(img/bg.jpg);
+  background: #676D0B url(img/bg.jpg) no-repeat top center;
+  background-size: cover;
   font-family: 'Open Sans', sans-serif;
   color: #9ED43A;
 }
